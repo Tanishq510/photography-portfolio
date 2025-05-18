@@ -1,0 +1,16 @@
+{
+  "name": "photography-portfolio",
+  "version": "1.0.0",
+  "description": "Photography portfolio landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photography",
+    "portfolio",
+    "reactjs"
+  ],
+  "author": "Tanishq joshi",
+  "license": "ISC"
+}
